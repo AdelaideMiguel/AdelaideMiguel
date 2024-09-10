@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdelaideMiguel
+- 👋 Hi, I’m @Adelaide Miguel
 - 👀 I’m interested in software developer.
 - 🌱 I’m currently improving my coding skills
 - 💞️ I’m looking to collaborate on...
